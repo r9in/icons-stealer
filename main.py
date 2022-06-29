@@ -5,7 +5,7 @@ import random
 from discord.ext import commands
 from discord.ext.commands import Bot
 
-token = "TOKEN" #YOUR SELFBOT TOKEN (NOT A BOT!!!)
+token = "TOKEN" #YOUR SELFBOT TOKEN 
 
 intents = discord.Intents.default()
 intents.members = True
